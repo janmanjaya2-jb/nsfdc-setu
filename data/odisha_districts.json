@@ -1,0 +1,302 @@
+[
+  {
+    "district_id": "OD-ANG",
+    "district": "Angul",
+    "headquarters": "Angul",
+    "location_type": "district_headquarters",
+    "lat": 20.84903,
+    "lon": 85.06079,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-BAU",
+    "district": "Boudh",
+    "headquarters": "Boudh",
+    "location_type": "district_headquarters",
+    "lat": 20.83773,
+    "lon": 84.32618,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-BAL",
+    "district": "Balangir",
+    "headquarters": "Balangir",
+    "location_type": "district_headquarters",
+    "lat": 20.70419,
+    "lon": 83.49029,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-BAR",
+    "district": "Bargarh",
+    "headquarters": "Bargarh",
+    "location_type": "district_headquarters",
+    "lat": 21.33348,
+    "lon": 83.61905,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-BLS",
+    "district": "Balasore",
+    "headquarters": "Balasore",
+    "location_type": "district_headquarters",
+    "lat": 21.49266,
+    "lon": 86.93348,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-BHD",
+    "district": "Bhadrak",
+    "headquarters": "Bhadrak",
+    "location_type": "district_headquarters",
+    "lat": 21.05447,
+    "lon": 86.51561,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-CUT",
+    "district": "Cuttack",
+    "headquarters": "Cuttack",
+    "location_type": "district_headquarters",
+    "lat": 20.464,
+    "lon": 85.8792,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-DEO",
+    "district": "Deogarh",
+    "headquarters": "Deogarh",
+    "location_type": "district_headquarters",
+    "lat": 21.53708,
+    "lon": 84.73012,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-DHE",
+    "district": "Dhenkanal",
+    "headquarters": "Dhenkanal",
+    "location_type": "district_headquarters",
+    "lat": 20.6574,
+    "lon": 85.5963,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-GAJ",
+    "district": "Gajapati",
+    "headquarters": "Paralakhemundi",
+    "location_type": "district_headquarters",
+    "lat": 18.7816,
+    "lon": 84.088,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-GAN",
+    "district": "Ganjam",
+    "headquarters": "Chhatrapur",
+    "location_type": "district_headquarters",
+    "lat": 19.3551,
+    "lon": 84.9836,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-JAG",
+    "district": "Jagatsinghpur",
+    "headquarters": "Jagatsinghpur",
+    "location_type": "district_headquarters",
+    "lat": 20.25939,
+    "lon": 86.16609,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-JAJ",
+    "district": "Jajpur",
+    "headquarters": "Jajpur",
+    "location_type": "district_headquarters",
+    "lat": 20.85227,
+    "lon": 86.33857,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-JHA",
+    "district": "Jharsuguda",
+    "headquarters": "Jharsuguda",
+    "location_type": "district_headquarters",
+    "lat": 21.87705,
+    "lon": 84.00905,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-KHD",
+    "district": "Khordha",
+    "headquarters": "Khordha",
+    "location_type": "district_headquarters",
+    "lat": 20.22565,
+    "lon": 85.56059,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-KEO",
+    "district": "Keonjhar",
+    "headquarters": "Keonjhar",
+    "location_type": "district_headquarters",
+    "lat": 21.58923,
+    "lon": 85.66878,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-KAL",
+    "district": "Kalahandi",
+    "headquarters": "Bhawanipatna",
+    "location_type": "district_headquarters",
+    "lat": 19.90717,
+    "lon": 83.16698,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-KAN",
+    "district": "Kandhamal",
+    "headquarters": "Phulbani",
+    "location_type": "district_headquarters",
+    "lat": 20.474,
+    "lon": 84.2309,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-KOR",
+    "district": "Koraput",
+    "headquarters": "Koraput",
+    "location_type": "district_headquarters",
+    "lat": 18.8135,
+    "lon": 82.7123,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-KEN",
+    "district": "Kendrapara",
+    "headquarters": "Kendrapara",
+    "location_type": "district_headquarters",
+    "lat": 20.5004,
+    "lon": 86.4317,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-MAL",
+    "district": "Malkangiri",
+    "headquarters": "Malkangiri",
+    "location_type": "district_headquarters",
+    "lat": 18.348,
+    "lon": 81.892,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-MAY",
+    "district": "Mayurbhanj",
+    "headquarters": "Baripada",
+    "location_type": "district_headquarters",
+    "lat": 21.93459,
+    "lon": 86.72852,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-NAB",
+    "district": "Nabarangpur",
+    "headquarters": "Nabarangpur",
+    "location_type": "district_headquarters",
+    "lat": 19.23114,
+    "lon": 82.54826,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-NUA",
+    "district": "Nuapada",
+    "headquarters": "Nuapada",
+    "location_type": "district_headquarters",
+    "lat": 20.7691,
+    "lon": 82.51863,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-NAY",
+    "district": "Nayagarh",
+    "headquarters": "Nayagarh",
+    "location_type": "district_headquarters",
+    "lat": 20.11607,
+    "lon": 85.11196,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-PUR",
+    "district": "Puri",
+    "headquarters": "Puri",
+    "location_type": "district_headquarters",
+    "lat": 19.80761,
+    "lon": 85.82525,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-RAY",
+    "district": "Rayagada",
+    "headquarters": "Rayagada",
+    "location_type": "district_headquarters",
+    "lat": 19.1716,
+    "lon": 83.4163,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-SAM",
+    "district": "Sambalpur",
+    "headquarters": "Sambalpur",
+    "location_type": "district_headquarters",
+    "lat": 21.4669,
+    "lon": 83.975,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-SUB",
+    "district": "Subarnapur",
+    "headquarters": "Sonepur",
+    "location_type": "district_headquarters",
+    "lat": 20.833,
+    "lon": 83.916,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  },
+  {
+    "district_id": "OD-SUN",
+    "district": "Sundargarh",
+    "headquarters": "Sundargarh",
+    "location_type": "district_headquarters",
+    "lat": 22.11667,
+    "lon": 84.03333,
+    "source": "Government of Odisha / geographic reference",
+    "last_verified": "2026-08-28"
+  }
+]
