@@ -1,0 +1,57 @@
+[
+    {
+        "scheme_id": "MFS",
+        "name": "Micro Finance Scheme",
+        "purpose": "Small income-generating activities",
+        "max_project_cost": 140000,
+        "max_loan_pct_of_cost": 90,
+        "interest_rate_beneficiary": "6.5-8%",
+        "moratorium_months": [3, 6],
+        "max_tenure_years": 5,
+        "eligible_for": [
+            "small trade",
+            "small manufacturing",
+            "service micro-units"
+        ],
+        "description": "For very small income-generating projects.",
+        "source": "NSFDC official guidelines",
+        "last_verified": "VERIFY"
+    },
+    {
+        "scheme_id": "TL",
+        "name": "Term Loan Scheme",
+        "purpose": "Larger income-generating projects",
+        "max_project_cost": 5000000,
+        "max_loan_pct_of_cost": 90,
+        "interest_rate_beneficiary": "6.5-8%",
+        "moratorium_months": [6, 12],
+        "max_tenure_years": 10,
+        "eligible_for": [
+            "manufacturing",
+            "trading",
+            "services",
+            "transport",
+            "agriculture-allied"
+        ],
+        "description": "For larger income-generating projects.",
+        "source": "NSFDC official guidelines",
+        "last_verified": "VERIFY"
+    },
+    {
+        "scheme_id": "EDU",
+        "name": "Educational Loan Scheme",
+        "purpose": "Professional and technical education",
+        "max_project_cost": null,
+        "max_loan_pct_of_cost": 90,
+        "interest_rate_beneficiary": "6.5-8%",
+        "moratorium_months": [0, 12],
+        "max_tenure_years": 10,
+        "eligible_for": [
+            "education - india",
+            "education - abroad"
+        ],
+        "description": "Concessional loan for professional/technical education.",
+        "source": "NSFDC official guidelines",
+        "last_verified": "VERIFY"
+    }
+]

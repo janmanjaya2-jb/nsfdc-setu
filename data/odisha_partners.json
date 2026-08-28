@@ -1,0 +1,19 @@
+[
+    {
+        "partner_id": "P001",
+        "name": "OSFDC Head Office",
+        "type": "SCA",
+        "district": "Khordha",
+        "address": "Bhubaneswar, Odisha",
+        "lat": 20.2961,
+        "lon": 85.8245,
+        "handles_schemes": [
+            "MFS",
+            "TL",
+            "EDU"
+        ],
+        "fund_utilization_status": "healthy",
+        "source": "OSFDC",
+        "last_verified": "2026-08-28"
+    }
+]
